@@ -1,2 +1,2 @@
 # LaTeX
-LaTeX files
+Edited versions of SAGE cls and bst files
